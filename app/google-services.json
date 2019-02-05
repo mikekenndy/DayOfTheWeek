@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "954890386345",
+    "firebase_url": "https://dayoftheweek-6d7eb.firebaseio.com",
+    "project_id": "dayoftheweek-6d7eb",
+    "storage_bucket": "dayoftheweek-6d7eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:954890386345:android:aeeabd08550edb16",
+        "android_client_info": {
+          "package_name": "git.commikekenndydayoftheweek.httpsgithub.dayoftheweek"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "954890386345-697dqvg6uh30ndqdjhvot9bcg7tdc83p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "git.commikekenndydayoftheweek.httpsgithub.dayoftheweek",
+            "certificate_hash": "263890229c712b4776cccc4c4c3213141f4c933b"
+          }
+        },
+        {
+          "client_id": "954890386345-611g3169l1efekvhk4v5k67041ogcu6d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1ZLuUZCw8oqfDczenCwRwXQp1guMdiUc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "954890386345-611g3169l1efekvhk4v5k67041ogcu6d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
